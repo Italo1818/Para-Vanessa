@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+
+    background-image: linear-gradient(to right, #CACACA, #878787);
+    color: black;
+}
+
+main {
+    background-image: linear-gradient(to bottom, #ba15e4 30%, #6313cc);
+    width: 700px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 5px 5px 5px rgb(77, 73, 73);
+    border-radius: 10px;
+    color: white;
+}
